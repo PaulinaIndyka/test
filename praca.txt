@@ -1,4 +1,4 @@
-dodaam nowe pomiary z czujnikiem
++++++++++++++++dodaam nowe pomiary z czujnikiem
 jakas zmiana
 coffee
 ++++++++++++++++
