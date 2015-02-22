@@ -5,3 +5,4 @@ coffee
 ~++++++++++
 __________
 ==================
+troche nowych danych i opracowan
