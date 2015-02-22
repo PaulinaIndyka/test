@@ -1,3 +1,4 @@
+dodaam nowe pomiary z czujnikiem
 jakas zmiana
 coffee
 ++++++++++++++++
